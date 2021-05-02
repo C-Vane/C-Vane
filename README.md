@@ -13,6 +13,6 @@
 <br/>
     <hr/>
     <div>
-  <image height="100%" src="https://github-readme-stats.vercel.app/api?username=C-Vane&hide=issues&show_icons=true&hide_border=true&theme=slateorange">"
-  <image height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Vane&layout=compact&&theme=slateorange&&hide_border=true">
+  <image height="300px" src="https://github-readme-stats.vercel.app/api?username=C-Vane&hide=issues&show_icons=true&hide_border=true&theme=slateorange">
+  <image height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Vane&layout=compact&&theme=slateorange&&hide_border=true">
 <div>
