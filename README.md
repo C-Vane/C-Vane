@@ -14,5 +14,5 @@
     <hr/>
     <div>
   <image height="150px" width="50vw" src="https://github-readme-stats.vercel.app/api?username=C-Vane&hide=issues&show_icons=true&hide_border=true&theme=slateorange">
-  <image height="150px" width:"30vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Vane&layout=compact&&theme=slateorange&&hide_border=true">
+  <image height="150px" width="30vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Vane&layout=compact&&theme=slateorange&&hide_border=true">
 <div>
