@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋</h1>
 
-- 🌱 I’m currently learning at Strive-School as Full-Stack Developer
+- 🌱 I’m a Full-Stack Developer
 - 💬 Feel Free to contact me
 - 👀 Please view some of my projects
 - 📫 How to reach me: vanebrunocattabiani@gmail.com
