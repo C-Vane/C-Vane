@@ -1,7 +1,6 @@
 ### <h1>Hi there 👋</h1>
 
 - 🌱 I’m a Full-Stack Developer
-- 💻 Open to work
 - 💬 Feel Free to contact me
 - 👀 Please view some of my projects
 - 📫 How to reach me: vanebrunocattabiani@gmail.com
